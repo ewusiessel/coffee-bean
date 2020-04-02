@@ -5,3 +5,15 @@
     min-height: 300px;
 }
 
+.card-text {
+    padding: 20px;
+}
+
+h3 {
+    padding-top: 5px;
+   text-align: center;
+}
+
+.container-2 {
+    padding-top: 30px;
+}
